@@ -1,7 +1,9 @@
 <h1 align="left">Hi 👋,I am Shubham Upadhyay From Mumbai Maharashtra.</h1>
-<h3 align="left">A passionate Data Science student, Pursuing my Master's degree in Statistics from Ramniranjan Jhunjhunwala College.</h3>
+<h3 align="left">Passionate data analyst and scientist with expertise in extracting valuable insights from complex datasets.</h3>
 
-**Seeking an opportunity to leverage my diverse skills and experience in the field of Data Science & Machine Learning. My aim is to   utilize my skills and analytical abilities to help an organization with automation and advanced analytics. Experienced at creating regression models and using predictive modeling to discover insights from data and answer complex business problems**
+**As a Data Analyst, I am passionate about using data to drive business decisions and insights. My expertise lies in Statistics and I am proficient in various data analysis tools and software, including SQL, Tableau, Excel,Python, Machine Learning, GA4 Basics.
+I have a strong track record of analyzing large data sets and delivering actionable insights to stakeholders across ImpactGuru. My ability to translate complex data into easy-to-understand insights has helped teams to make informed decisions and achieve key business objectives.
+I am committed to ongoing professional development and staying up-to-date with the latest trends and techniques in data analysis. I hold a Master's in Statistics and have completed additional Machine learning courses and Data Analytics.**
 
 - 👀 I’m interested in the field of **Data Analytics, Data Science and Machine Learning.**
 
